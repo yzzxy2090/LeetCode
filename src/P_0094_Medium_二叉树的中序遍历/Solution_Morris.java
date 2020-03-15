@@ -22,9 +22,9 @@ import java.util.List;
  *
  * 2、cur.left 不为 null，找到 cur.left 这颗子树最右边的节点记做 last
  *
- * 2.1 last.right 为 null，那么将 last.right = cur，更新 cur = cur.left
+ *  2.1 last.right 为 null，那么将 last.right = cur，cur继续向左子树遍历，更新 cur = cur.left
  *
- * 2.2 last.right 不为 null，说明之前已经访问过，第二次来到这里，表明当前子树遍历完成，保存 cur 的值，更新 cur = cur.right
+ *  2.2 last.right 不为 null，说明之前已经访问过，第二次来到这里，表明当前子树遍历完成，保存 cur 的值，cur向右子树遍历，更新 cur = cur.right
  */
 
 public class Solution_Morris {
@@ -43,6 +43,7 @@ public class Solution_Morris {
             else {
 
                 TreeNode last = cur.left;
+                //last.right==cur时说明已经建立过线索了
                 while(last.right != null && last.right != cur) {
                     last = last.right;
                 }
