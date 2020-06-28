@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36eeb8ad-9809-4e49-9391-daed2275d49e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/Solution_NonRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/Solution_NonRecursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_0094_Medium_二叉树的中序遍历/Solution_Morris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0094_Medium_二叉树的中序遍历/Solution_Morris.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_0232_Easy_用栈实现队列/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0232_Easy_用栈实现队列/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P_0094_Medium_二叉树的中序遍历/Solution_Morris.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/P_0094_Medium_二叉树的中序遍历/Solution_Morris.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P_0232_Easy_用栈实现队列/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/P_0232_Easy_用栈实现队列/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P_0442_Medium_数组中重复的数据/Soluiton_Wrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P_0442_Medium_数组中重复的数据/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/P_0442_Medium_数组中重复的数据/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P_0442_Medium_数组中重复的数据/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_0015_Medium_三数之和/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0015_Medium_三数之和/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_0025_Hard_K个一组翻转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0025_Hard_K个一组翻转链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_0080_Medium_删除排序数组中的重复项II/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0080_Medium_删除排序数组中的重复项II/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache_LeetCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache_LeetCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P_0240_Medium_搜索二维矩阵II/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P_0240_Medium_搜索二维矩阵II/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,28 +27,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0122_Easy_买卖股票的最佳时机II/Solution_Optimized.java">
+        <entry file="file://$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Solution_Execise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="646">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_DFS.java">
+        <entry file="file://$PROJECT_DIR$/src/P_0354_Hard_俄罗斯套娃信封问题/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_BFS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="102">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,75 +48,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_UnionSet.java">
+        <entry file="file://$PROJECT_DIR$/src/P_0023_Hard_合并K个排序链表/Solution_Divide.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P_0023_Hard_合并K个排序链表/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
-                <element signature="e#1418#1419#0" expanded="true" />
-                <element signature="e#1454#1455#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0208_Medium_实现前缀树Trie/Trie.java">
+        <entry file="file://$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_DFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_TopDownMemoDFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_DownTopDP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P_0300_Medium_最长上升子序列/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="144" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution_Recursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="13" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution_DP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0015_Medium_三数之和/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/Solution_Recursive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="59" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -149,57 +147,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/P_0594_Easy_最长和谐子序列/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0594_Easy_最长和谐子序列/Solution_Brutal.java" />
-        <option value="$PROJECT_DIR$/src/P_0594_Easy_最长和谐子序列/Solution_HashMap.java" />
-        <option value="$PROJECT_DIR$/src/P_0594_Easy_最长和谐子序列/Solution_HashMapAdvanced.java" />
-        <option value="$PROJECT_DIR$/src/P_0128_Hard_最长连续序列/Solution_Hash.java" />
-        <option value="$PROJECT_DIR$/src/P_0026_Easy_删除排序数组中的重复项/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0080_Medium_删除排序数组中的重复项II/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0442_Medium_数组中重复的数据/Soluiton_Wrong.java" />
-        <option value="$PROJECT_DIR$/src/P_0442_Medium_数组中重复的数据/Test.java" />
-        <option value="$PROJECT_DIR$/src/P_0442_Medium_数组中重复的数据/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0074_Medium_搜索二维矩阵/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0240_Medium_搜索二维矩阵II/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0378_Medium_有序矩阵中第K小的元素/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0378_Medium_有序矩阵中第K小的元素/Solution_BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/P_0378_Medium_有序矩阵中第K小的元素/Solution_Heap.java" />
-        <option value="$PROJECT_DIR$/src/P_0378_Medium_有序矩阵中第K小的元素/Solution_MinHeap.java" />
-        <option value="$PROJECT_DIR$/src/P_0136_Easy_只出现一次的数字/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0137_Medium_只出现一次的数字II/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0137_Medium_只出现一次的数字II/Solution_HashMap.java" />
-        <option value="$PROJECT_DIR$/src/P_0260_Medium_只出现一次的数字III/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0010_Hard_正则表达式匹配/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0206_Easy_反转链表/Soluiton.java" />
-        <option value="$PROJECT_DIR$/src/P_0020_Easy_有效的括号/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0025_Hard_K个一组翻转链表/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/P_0025_Hard_K个一组翻转链表/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0085_Hard_最大矩形/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0494_Medium_目标和/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0647_Medium_回文子串/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0647_Medium_回文子串/Solution_DP.java" />
+        <option value="$PROJECT_DIR$/src/P_0647_Medium_回文子串/Test.java" />
+        <option value="$PROJECT_DIR$/src/P_0647_Medium_回文子串/Solution_Center.java" />
+        <option value="$PROJECT_DIR$/src/P_0005_Medium_最长回文子串/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0005_Medium_最长回文子串/Solution_Brutal.java" />
+        <option value="$PROJECT_DIR$/src/P_0005_Medium_最长回文子串/Solution_Center.java" />
+        <option value="$PROJECT_DIR$/src/P_0005_Medium_最长回文子串/Solution_DP.java" />
         <option value="$PROJECT_DIR$/src/P_0015_Medium_三数之和/Solution.java" />
-        <option value="$PROJECT_DIR$/src/组合总和/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0094_Medium_二叉树的中序遍历/Solution_Morris.java" />
-        <option value="$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/ZuoCache.java" />
-        <option value="$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache_LeetCode.java" />
-        <option value="$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/Solution_NonRecursive.java" />
-        <option value="$PROJECT_DIR$/src/P_0232_Easy_用栈实现队列/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/P_0001_Easy_两数之和/Solution_Brutal.java" />
-        <option value="$PROJECT_DIR$/src/P_0160_Easy_相交链表/Solution.java" />
-        <option value="$PROJECT_DIR$/src/美团/Main.java" />
-        <option value="$PROJECT_DIR$/src/P_0121_Easy_买卖股票的最佳时机/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0121_Easy_买卖股票的最佳时机/Solution_Brutal.java" />
-        <option value="$PROJECT_DIR$/src/P_0121_Easy_买卖股票的最佳时机/Solution_On.java" />
-        <option value="$PROJECT_DIR$/src/P_0122_Easy_买卖股票的最佳时机II/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0122_Easy_买卖股票的最佳时机II/Solution_Optimized.java" />
-        <option value="$PROJECT_DIR$/src/P_0208_Medium_实现前缀树Trie/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0208_Medium_实现前缀树Trie/Trie.java" />
-        <option value="$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution_Recursion.java" />
-        <option value="$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution_DP.java" />
-        <option value="$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution.java" />
-        <option value="$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_BFS.java" />
-        <option value="$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_UnionSet.java" />
+        <option value="$PROJECT_DIR$/src/P_0032_Hard_最长有效括号/Solution_Brutal.java" />
+        <option value="$PROJECT_DIR$/src/P_0051_Hard_N皇后/Solution_Advanced.java" />
+        <option value="$PROJECT_DIR$/src/P_0240_Medium_搜索二维矩阵II/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0004_Hard_寻找两个有序数组的中位数/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0148_Medium_排序链表/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/P_0148_Medium_排序链表/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0148_Medium_排序链表/Solution_02.java" />
+        <option value="$PROJECT_DIR$/src/P_0148_Medium_排序链表/Solution_Recursive.java" />
+        <option value="$PROJECT_DIR$/src/P_0215_Medium_数组中的第K个最大元素/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0215_Medium_数组中的第K个最大元素/Test.java" />
+        <option value="$PROJECT_DIR$/src/P_0215_Medium_数组中的第K个最大元素/Solution_Partition.java" />
+        <option value="$PROJECT_DIR$/src/P_0215_Medium_数组中的第K个最大元素/Solution_Partition02.java" />
+        <option value="$PROJECT_DIR$/src/P_0215_Medium_数组中的第K个最大元素/Solution_Heap.java" />
+        <option value="$PROJECT_DIR$/src/P_0047_Medium_全排列II/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0074_Medium_搜索二维矩阵/Solution_Test.java" />
+        <option value="$PROJECT_DIR$/src/P_0080_Medium_删除排序数组中的重复项II/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0004_Hard_寻找两个有序数组的中位数/Solution_Own.java" />
+        <option value="$PROJECT_DIR$/src/P_0025_Hard_K个一组翻转链表/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0004_Hard_寻找两个有序数组的中位数/Solution_02.java" />
+        <option value="$PROJECT_DIR$/src/P_0300_Medium_最长上升子序列/Test.java" />
+        <option value="$PROJECT_DIR$/src/P_0300_Medium_最长上升子序列/Solution_GreedyAndBinSearch.java" />
+        <option value="$PROJECT_DIR$/src/P_0354_Hard_俄罗斯套娃信封问题/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_Greedy.java" />
+        <option value="$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_DFS.java" />
+        <option value="$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_TopDownDP.java" />
+        <option value="$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_MemoDFS.java" />
+        <option value="$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_DownTopDP.java" />
+        <option value="$PROJECT_DIR$/src/P_0406_Medium_根据身高重建队列/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Solution_Map.java" />
+        <option value="$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Solution_TwoPointer.java" />
+        <option value="$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Test.java" />
+        <option value="$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Solution_Set.java" />
+        <option value="$PROJECT_DIR$/src/P_0621_Medium_任务调度器/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0621_Medium_任务调度器/Solution_Bucket.java" />
+        <option value="$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Solution_Execise.java" />
+        <option value="$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Test.java" />
+        <option value="$PROJECT_DIR$/src/P_0023_Hard_合并K个排序链表/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/P_0023_Hard_合并K个排序链表/Solution_Divide.java" />
       </list>
     </option>
   </component>
@@ -214,7 +212,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="651" />
     <option name="y" value="84" />
-    <option name="width" value="1294" />
+    <option name="width" value="1309" />
     <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -225,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -249,7 +246,37 @@
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0003_Medium_无重复字符的最长子串" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0004_Hard_寻找两个有序数组的中位数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0005_Medium_最长回文子串" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0010_Hard_正则表达式匹配" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="P_0015_Medium_三数之和" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0019_Medium_删除链表的倒数第N个节点" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
@@ -267,13 +294,121 @@
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0023_Hard_合并K个排序链表" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0025_Hard_K个一组翻转链表" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0026_Easy_删除排序数组中的重复项" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0032_Hard_最长有效括号" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0039_Medium_组合总和" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0046_Medium_全排列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0047_Medium_全排列II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0051_Hard_N皇后" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0052_Hard_N皇后II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0055_Medium_跳跃游戏" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="P_0064_Medium_最小路径和" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="P_0094_Medium_二叉树的中序遍历" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0072_Hard_编辑距离" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0074_Medium_搜索二维矩阵" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0080_Medium_删除排序数组中的重复项II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0084_Hard_柱状图中最大的矩形" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0085_Hard_最大矩形" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0102_Medium_二叉树的层次遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0104_Easy_二叉树的最大深度" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0112_Easy_路径总和" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0113_Medium_路径总和II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +426,43 @@
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0128_Hard_最长连续序列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0136_Easy_只出现一次的数字" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0137_Medium_只出现一次的数字II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0144_Medium_二叉树的前序遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0145_Hard_二叉树的后序遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="P_0146_Medium_LRU缓存机制" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0148_Medium_排序链表" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
@@ -303,7 +474,19 @@
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0198_Easy_打家劫舍" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="P_0200_Medium_岛屿数量" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0206_Easy_反转链表" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
@@ -315,7 +498,37 @@
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0213_Medium_打家劫舍II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0215_Medium_数组中的第K个最大元素" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0226_Easy_翻转二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0230_Medium_二叉搜索树中第K小的元素" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="P_0232_Easy_用栈实现队列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0234_Easy_回文链表" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
@@ -327,12 +540,109 @@
               <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="组合总和" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0240_Medium_搜索二维矩阵II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0260_Medium_只出现一次的数字III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0300_Medium_最长上升子序列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0301_Hard_删除无效括号" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0322_Medium_零钱兑换" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0337_Medium_打家劫舍III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0338_Medium_比特位计数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0347_Medium_前K个高频元素" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0354_Hard_俄罗斯套娃信封问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0406_Medium_根据身高重建队列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0437_Easy_路径总和III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0461_Easy_汉明距离" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0494_Medium_目标和" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0581_Easy_最短无序连续子数组" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0594_Easy_最长和谐子序列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0621_Medium_任务调度器" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-202001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_0647_Medium_回文子串" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,13 +670,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_0442_Medium_数组中重复的数据.Test" />
+  <component name="RunManager" selected="Application.Test (4)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_0215_Medium_数组中的第K个最大元素.Test" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P_0442_Medium_数组中重复的数据.*" />
+          <option name="PATTERN" value="P_0215_Medium_数组中的第K个最大元素.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_0300_Medium_最长上升子序列.Test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P_0300_Medium_最长上升子序列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_0003_Medium_无重复字符的最长子串.Test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P_0003_Medium_无重复字符的最长子串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_0347_Medium_前K个高频元素.Test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P_0347_Medium_前K个高频元素.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_0647_Medium_回文子串.Test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P_0647_Medium_回文子串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,6 +738,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -419,18 +785,41 @@
       <workItem from="1583918122332" duration="3986000" />
       <workItem from="1584008562852" duration="86000" />
       <workItem from="1584171037889" duration="5381000" />
-      <workItem from="1584252272677" duration="11773000" />
+      <workItem from="1584252272677" duration="13171000" />
+      <workItem from="1584340717751" duration="597000" />
+      <workItem from="1584362435590" duration="616000" />
+      <workItem from="1584407351991" duration="2738000" />
+      <workItem from="1584414434386" duration="1798000" />
+      <workItem from="1584429336645" duration="29949000" />
+      <workItem from="1584768336674" duration="5605000" />
+      <workItem from="1584945329453" duration="28291000" />
+      <workItem from="1585214912836" duration="13087000" />
+      <workItem from="1585471856392" duration="1979000" />
+      <workItem from="1585801766249" duration="614000" />
+      <workItem from="1585899639235" duration="9314000" />
+      <workItem from="1586093472796" duration="11298000" />
+      <workItem from="1586255559224" duration="1067000" />
+      <workItem from="1586399862616" duration="1174000" />
+      <workItem from="1586595559289" duration="604000" />
+      <workItem from="1586677862079" duration="416000" />
+      <workItem from="1586687251867" duration="1833000" />
+      <workItem from="1586829148045" duration="11081000" />
+      <workItem from="1586868183333" duration="2139000" />
+      <workItem from="1586943746059" duration="2795000" />
+      <workItem from="1587187402867" duration="2987000" />
+      <workItem from="1587206107989" duration="27000" />
+      <workItem from="1593356773009" duration="2218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199975000" />
+    <option name="totallyTimeSpent" value="333600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25756508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26530612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -440,17 +829,17 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2407932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3281471" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32719547" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -465,406 +854,438 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_0046_Medium_全排列/Test.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_0084_Hard_柱状图中最大的矩形/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_0085_Hard_最大矩形/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_0647_Medium_回文子串/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_0215_Medium_数组中的第K个最大元素/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_0300_Medium_最长上升子序列/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/P_0010_Hard_正则表达式匹配/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0128_Hard_最长连续序列/Soluiton_DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="342">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0206_Easy_反转链表/Solution_Execise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0137_Medium_只出现一次的数字II/Solution_HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0136_Easy_只出现一次的数字/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0019_Medium_删除链表的倒数第N个节点/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0581_Easy_最短无序连续子数组/Solution_Brutal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0019_Medium_删除链表的倒数第N个节点/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0581_Easy_最短无序连续子数组/Solution_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0025_Hard_K个一组翻转链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0025_Hard_K个一组翻转链表/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0230_Medium_二叉搜索树中第K小的元素/Solution_inorder02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0206_Easy_反转链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0105_Medium_从前序与中序遍历序列构造二叉树/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0145_Hard_二叉树的后序遍历/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="42" />
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0101_Easy_对称二叉树/Solution_Recursive.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0004_Hard_寻找两个有序数组的中位数/Solution_Own.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0101_Easy_对称二叉树/Solution_NonRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0337_Medium_打家劫舍III/Solution_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0337_Medium_打家劫舍III/Solution_BrutalRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0110_Easy_平衡二叉树/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0206_Easy_反转链表/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="-235">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0260_Medium_只出现一次的数字III/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0005_Medium_最长回文子串/Solution_Center.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0230_Medium_二叉搜索树中第K小的元素/Solution_inorder01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/组合总和/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0239_Hard_滑动窗口最大值/Solution_Execise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0239_Hard_滑动窗口最大值/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-209">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/P_0020_Easy_有效的括号/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-34">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0094_Medium_二叉树的中序遍历/Solution_Morris.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0032_Hard_最长有效括号/Solution_Brutal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="26" column="76" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0032_Hard_最长有效括号/Solution_DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/Solution_NonRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0232_Easy_用栈实现队列/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache_LeetCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="71" column="47" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/ZuoCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3268">
-          <caret line="172" column="31" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/JavaEnvironment/jdk1.8.0_231/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10495">
-          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/JavaEnvironment/jdk1.8.0_231/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/美团/Main.java" />
-    <entry file="jar://D:/Java/JavaEnvironment/jdk1.8.0_231/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41724">
-          <caret line="2288" column="28" selection-start-line="2288" selection-start-column="23" selection-end-line="2288" selection-end-column="28" />
-          <folding>
-            <element signature="e#40959#40960#0" expanded="true" />
-            <element signature="e#41034#41035#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2071">
-          <caret line="109" column="32" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/JavaEnvironment/jdk1.8.0_231/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7068">
-          <caret line="406" column="18" selection-start-line="406" selection-start-column="18" selection-end-line="406" selection-end-column="18" />
-          <folding>
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-            <element signature="e#21108#21109#0" expanded="true" />
-            <element signature="e#21135#21136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0001_Easy_两数之和/Solution_Brutal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0160_Easy_相交链表/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="-19">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0160_Easy_相交链表/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution_DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="-216">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0121_Easy_买卖股票的最佳时机/Solution_Brutal.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0494_Medium_目标和/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="38" />
+        <state relative-caret-position="190">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0121_Easy_买卖股票的最佳时机/Solution_On.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0047_Medium_全排列II/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0046_Medium_全排列/Solution_DFS01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0046_Medium_全排列/Solution_DFS02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0300_Medium_最长上升子序列/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0301_Hard_删除无效括号/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0647_Medium_回文子串/Solution_Center.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0004_Hard_寻找两个有序数组的中位数/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0004_Hard_寻找两个有序数组的中位数/Solution_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0121_Easy_买卖股票的最佳时机/Solution_On.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/P_0122_Easy_买卖股票的最佳时机II/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0015_Medium_三数之和/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0021_Easy_合并两个有序链表/Solution_Recursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+        <state relative-caret-position="-57">
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/P_0122_Easy_买卖股票的最佳时机II/Solution_Optimized.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0208_Medium_实现前缀树Trie/Trie.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache_LeetCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0146_Medium_LRU缓存机制/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2235">
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0148_Medium_排序链表/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0148_Medium_排序链表/Solution_Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0051_Hard_N皇后/Soluiton_Row.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0051_Hard_N皇后/Solution_Advanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0052_Hard_N皇后II/Soluiton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0072_Hard_编辑距离/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0300_Medium_最长上升子序列/Solution_GreedyAndBinSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_Greedy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0406_Medium_根据身高重建队列/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0581_Easy_最短无序连续子数组/Solution_On.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Solution_Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="33" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Solution_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0621_Medium_任务调度器/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/JavaEnvironment/jdk1.8.0_231/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="320" column="19" selection-start-line="320" selection-start-column="19" selection-end-line="320" selection-end-column="19" />
+          <folding>
+            <element signature="e#12158#12159#0" expanded="true" />
+            <element signature="e#12189#12190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0621_Medium_任务调度器/Solution_Bucket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Solution_Execise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0347_Medium_前K个高频元素/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0003_Medium_无重复字符的最长子串/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_TopDownMemoDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0055_Medium_跳跃游戏/Solution_DownTopDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0300_Medium_最长上升子序列/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="144" selection-end-column="5" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_0354_Hard_俄罗斯套娃信封问题/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution_Recursion.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0023_Hard_合并K个排序链表/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0064_Medium_最小路径和/Solution_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_DFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_0200_Medium_岛屿数量/Solution_UnionSet.java">
+    <entry file="file://$PROJECT_DIR$/src/P_0023_Hard_合并K个排序链表/Solution_Divide.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-          <folding>
-            <element signature="e#1418#1419#0" expanded="true" />
-            <element signature="e#1454#1455#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

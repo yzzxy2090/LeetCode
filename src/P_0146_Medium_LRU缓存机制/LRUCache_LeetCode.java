@@ -54,7 +54,7 @@ public class LRUCache_LeetCode {
     private int capacity;
     private DLinkedNode head, tail;
 
-    public LRUCache(int capacity) {
+    public LRUCache_LeetCode(int capacity) {
         this.size = 0;
         this.capacity = capacity;
 

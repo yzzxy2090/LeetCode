@@ -67,6 +67,7 @@ public class Solution {
             start = lastGroupTail.next;
             //将当前cur的next指向的节点置为下一组链表的头结点
             nextGroupHead = cur.next;
+
             //先断开当前待翻转链表段和下一段的连接
             cur.next = null;
 
